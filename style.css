@@ -242,14 +242,14 @@ section {
 }
 
 
-@media only screen and (max-width:385px) {
+@media only screen and (max-width:390px) {
     .section {
-        padding: 0 3%;
+        padding: 0 8%;
         /* width: 100%; */
     }
 
     .logo {
-        font-size: 40px;
+        font-size: 10px;
         position: relative;
         top: -20px;
         right: 20px;
