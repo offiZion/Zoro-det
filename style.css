@@ -245,6 +245,7 @@ section {
 @media only screen and (max-width:480px) {
     .section {
         padding: 0 3%;
+        /* width: 100%; */
     }
 
     .logo {
@@ -274,11 +275,11 @@ section {
     }
 
     .hero-img img {
-        width: 300px;
+        width: 350px;
         height: auto;
         position: absolute;
-        right: -60px;
-        top: 250px;
+        right: -190px;
+        top: -580px;
     }
 
     .hero {
@@ -346,7 +347,7 @@ section {
     .navlist {
         position: absolute;
         top: 70px;
-        right: -160px;
+        right: -260px;
         width: 200px;
         height: 40vh;
         background-color: #4d9559;
@@ -369,7 +370,7 @@ section {
 
     .navlist.open {
         /* 60 */
-        right: 60px;
+        right: 10px;
     }
 
 }
